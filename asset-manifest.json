@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/air-distance-calculator/static/css/main.b78fd830.css",
+    "main.js": "/air-distance-calculator/static/js/main.09b5850a.js",
+    "static/js/787.6af3d53a.chunk.js": "/air-distance-calculator/static/js/787.6af3d53a.chunk.js",
+    "index.html": "/air-distance-calculator/index.html",
+    "main.b78fd830.css.map": "/air-distance-calculator/static/css/main.b78fd830.css.map",
+    "main.09b5850a.js.map": "/air-distance-calculator/static/js/main.09b5850a.js.map",
+    "787.6af3d53a.chunk.js.map": "/air-distance-calculator/static/js/787.6af3d53a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b78fd830.css",
+    "static/js/main.09b5850a.js"
+  ]
+}
